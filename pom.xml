@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>demo-vps-rumahweb</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>demo-vps-rumahweb</name>
     <description>demo-vps-rumahweb</description>
     <properties>
